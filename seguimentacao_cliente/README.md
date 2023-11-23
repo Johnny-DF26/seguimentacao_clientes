@@ -1,7 +1,14 @@
-seguimentacao_cliente
+Seguimentação de Clientes
 ==============================
 
-Classificacao em 4 seguimentos
+Uma empresa automobilística tem planos de entrar em novos mercados com seus produtos existentes (P1, P2, P3, P4 e P5). Após intensa pesquisa de mercado, eles deduziram que o comportamento do novo mercado é semelhante ao do mercado existente.
+
+No mercado existente, a equipe de vendas classificou todos os clientes em 4 segmentos (A, B, C, D). Em seguida, eles realizaram divulgação e comunicação segmentadas para um segmento diferente de clientes. Esta estratégia funcionou excepcionalmente bem para eles. Eles planejam usar a mesma estratégia para os novos mercados e identificaram 2.627 novos clientes potenciais.
+
+Você deve ajudar o gerente a prever o grupo certo de novos clientes.
+
+link:
+https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation
 
 Project Organization
 ------------
